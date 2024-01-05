@@ -1,6 +1,21 @@
 #project1 
 
-Project1 is a very simple analysis based to survey_results_public.csv 
+
+## Library Used 
+
+- Python 3
+- Pandas
+- Matplotlib
+- Seaborn
+
+## File Description 
+
+- `project1`: Jupyter Notebook containing the analysis code.
+- `survey_results_public.csv`: CSV file containing the survey data.
+
+## Project motivation
+
+Project1 is a simple analysis based to survey_results_public.csv 
 
 ## Index
 
@@ -14,4 +29,12 @@ Project1 is a very simple analysis based to survey_results_public.csv
   - Show the results
   - Create a new df with only the response of HighestEducationParents
   - Show the results
+
+## Link to Blog 
+
+None
+
+## Acknowledgement
+
+None
 
