@@ -25,12 +25,14 @@ Project1 is a simple analysis based to survey_results_public.csv
   - Ingest the dataframe
   - How many respondents are there for each country? 
   - show the results
-  - What are the main programming languages used by the respondents? 
-  - Show the results
+  - Gender analysys
+  - show the results
   - Create a new df with only the response of HighestEducationParents
   - Show the results
+  - What are the main programming languages used by the respondents? 
+  - Show the results
 
-## Link to Blog 
+## Link to Blog : https://medium.com/@milazzosamuel/skills-and-experiences-analysis-of-it-professionals-8e29726f67da
 
 None
 
